@@ -5,7 +5,7 @@ import cloud from './assets/cloud.png'
 import drizzle from './assets/drizzle.png'
 import humidity from './assets/humidity.png'
 import rain from './assets/rain.png'
-import search from './assets/search.png'
+import searchIcon from './assets/searchIcon.png'
 import snow from './assets/snow.png'
 import wind from './assets/wind.png'
 
@@ -15,7 +15,8 @@ const WeatherApp = () => {
 
     const search = async () =>{
         const element = document.getElementsByClassName("cityName");
-        if(element[0].value === " "){
+        if(element[0].value === ""){
+            alert("please enter a city name");
             return 0;
         }
 
@@ -42,7 +43,7 @@ const WeatherApp = () => {
       <div className="top-bar">
         <input type="text" className='cityName' placeholder='search' />
         <div className="search-icon" onClick={()=>{search()}}>
-            <img src={search} alt="" />
+            <img src={searchIcon} alt="" />
         </div>
       </div>
       <div className="weather-img">
