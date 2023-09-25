@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Prodigy_WD_O5_WeatherApp/static/css/main.fd12ca5b.css",
-    "main.js": "/Prodigy_WD_O5_WeatherApp/static/js/main.e3822bc8.js",
+    "main.css": "/Prodigy_WD_O5_WeatherApp/static/css/main.5f3e8525.css",
+    "main.js": "/Prodigy_WD_O5_WeatherApp/static/js/main.e16e5a71.js",
     "static/media/cloud.png": "/Prodigy_WD_O5_WeatherApp/static/media/cloud.20f353f873a9b27949a9.png",
     "index.html": "/Prodigy_WD_O5_WeatherApp/index.html",
-    "main.fd12ca5b.css.map": "/Prodigy_WD_O5_WeatherApp/static/css/main.fd12ca5b.css.map",
-    "main.e3822bc8.js.map": "/Prodigy_WD_O5_WeatherApp/static/js/main.e3822bc8.js.map"
+    "main.5f3e8525.css.map": "/Prodigy_WD_O5_WeatherApp/static/css/main.5f3e8525.css.map",
+    "main.e16e5a71.js.map": "/Prodigy_WD_O5_WeatherApp/static/js/main.e16e5a71.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd12ca5b.css",
-    "static/js/main.e3822bc8.js"
+    "static/css/main.5f3e8525.css",
+    "static/js/main.e16e5a71.js"
   ]
 }
